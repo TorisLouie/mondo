@@ -209,3 +209,11 @@ Datatype: idrange:21
 Datatype: xsd:integer
 Datatype: rdf:PlainLiteral
      
+   Datatype: idrange:22
+
+    Annotations:
+        allocatedto: "Toris"
+
+    EquivalentTo:
+        xsd:integer[>= 1061000 , <= 1061999]
+  
